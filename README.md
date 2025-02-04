@@ -4,7 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Isha Gopal: https://github.com/ishy04
+- [Isha Gopal](https://github.com/ishy04)
+- [Andy Liu](https://github.com/andy-612)
+- [Claire Kim](https://github.com/radishsoups)
 
 ## Stakeholders
 
