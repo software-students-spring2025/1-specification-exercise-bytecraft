@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - [Isha Gopal](https://github.com/ishy04)
 - [Andy Liu](https://github.com/andy-612)
 - [Claire Kim](https://github.com/radishsoups)
+- [Margarita Billi](https://github.com/pinkmaggs/maggshop)
 
 ## Stakeholders
 
