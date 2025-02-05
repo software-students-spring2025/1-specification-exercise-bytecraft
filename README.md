@@ -6,8 +6,8 @@ A little exercise to get started with the specification phase of the software de
 
 - [Isha Gopal](https://github.com/ishy04)
 - [Andy Liu](https://github.com/andy-612)
+- [Margarita Billi](https://github.com/pinkmaggs)
 - [Claire Kim](https://github.com/radishsoups)
-- [Margarita Billi](https://github.com/pinkmaggs/maggshop)
 
 ## Stakeholders
 
@@ -19,7 +19,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a student, I want track my tasks so that I stay on top of my classes this semester.
+2. As a chronic procrastinator, I want to be able to see all my due dates so I don't miss any deadlines.
 
 ## Activity Diagrams
 
