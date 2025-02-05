@@ -8,6 +8,7 @@ A little exercise to get started with the specification phase of the software de
 - [Andy Liu](https://github.com/andy-612)
 - [Margarita Billi](https://github.com/pinkmaggs)
 - [Claire Kim](https://github.com/radishsoups)
+- [Margarita Billi](https://github.com/pinkmaggs)
 
 ## Stakeholders
 
