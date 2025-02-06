@@ -14,16 +14,18 @@ A little exercise to get started with the specification phase of the software de
 Interviewee: Jessica C., Student
 
 Goals and Needs:
-  1. Keep track of homework and deadlines in one place to avoid missing assignments.
-  2. Develop better study habits.
-  3. Manage time effectively between school and personal life.
-  4. To be able to stay on top of coursework without feeling overwhelmed.
+
+1. Keep track of homework and deadlines in one place to avoid missing assignments.
+2. Develop better study habits.
+3. Manage time effectively between school and personal life.
+4. To be able to stay on top of coursework without feeling overwhelmed.
 
 Problems and Frustrations:
-  1. Procrastination on assignments: Struggles with starting homework early and often crams at the last minute.
-  2. Forgets small tasks: Remembers big exams but forgets smaller assignments.
-  3. Lack of motivation for repetitive tasks.
-  4. No clear way to measure progress.
+
+1. Procrastination on assignments: Struggles with starting homework early and often crams at the last minute.
+2. Forgets small tasks: Remembers big exams but forgets smaller assignments.
+3. Lack of motivation for repetitive tasks.
+4. No clear way to measure progress.
 
 ## Product Vision Statement
 
@@ -44,7 +46,7 @@ For students, employees, and others who are looking to transform into a better, 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+10. As a student, I want to create, edit, and delete tasks with details like title, description, due date, and priority level so that I can efficiently manage my workload and stay organized.
 
 ## Clickable Prototype
 
