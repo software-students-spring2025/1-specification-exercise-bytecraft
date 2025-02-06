@@ -27,7 +27,7 @@ Problems and Frustrations:
 
 ## Product Vision Statement
 
-For students, who are looking to transform into a better, more productive version of themselves, [App Name] is a task manager that allows you to track your assignments and habits.
+For students, employees, and others who are looking to transform into a better, more productive version of themselves, Gradual is a task manager that allows you to track your deadlines and habits.
 
 ## User Requirements
 
