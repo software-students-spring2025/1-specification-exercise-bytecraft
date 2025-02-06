@@ -31,7 +31,7 @@ For students, employees, and others who are looking to transform into a better, 
 
 ## User Requirements
 
-1. As a student, I want track my tasks so that I stay on top of my classes this semester.
+1. As a student I want to be reminded of my deadlines. I want to create an account and recieve notificatoins of upcoming deadlines.
 2. As a chronic procrastinator, I want to be able to see all my due dates so I don't miss any deadlines.
 3. As a member of a developer team, I want to see a dashboard of tasks so I can track my progress.
 4. As a mother, I want to record my weekly tasks so I can stay organized and help support my family.
