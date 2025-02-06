@@ -48,4 +48,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Link to the prototype is available [here](https://www.figma.com/proto/el1GstfT48lTYVy1eVUNoC/Bytecraft?node-id=0-1&t=DMk6jFXTHQACMb0l-1).
