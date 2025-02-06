@@ -38,6 +38,9 @@ For students, employees, and others who are looking to transform into a better, 
 5. As a professor, I want to organize my deadlines by priority so I know which ones to prioritize.
 6. As a worker, I want a flexible task management system so that I can structure my productivity in a way that works best for me.
 7. As a student, I want to have a simple and distraction-free interface so that I can quickly log my progress without getting overwhelmed.
+8. As a person struggling with productivity, I want to organize my 2025 New Years Resolutions so I can become a better version of myself this year.
+9. As a forgetful person, I want to be notified through my phone about my deadlines so I don't miss out on any.
+10. As a student, I want to create, edit, and delete tasks with details like title, description, due date, and priority level so that I can efficiently manage my workload and stay organized.
 
 ## Activity Diagrams
 
