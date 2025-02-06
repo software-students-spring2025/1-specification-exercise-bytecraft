@@ -33,6 +33,9 @@ For students, employees, and others who are looking to transform into a better, 
 
 1. As a student, I want track my tasks so that I stay on top of my classes this semester.
 2. As a chronic procrastinator, I want to be able to see all my due dates so I don't miss any deadlines.
+3. As a member of a developer team, I want to see a dashboard of tasks so I can track my progress.
+4. As a mother, I want to record my weekly tasks so I can stay organized and help support my family.
+5. As a professor, I want to organize my deadlines by priority so I know which ones to prioritize.
 
 ## Activity Diagrams
 
