@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 - [Isha Gopal](https://github.com/ishy04)
 - [Andy Liu](https://github.com/andy-612)
+- [Margarita Billi](https://github.com/pinkmaggs)
 - [Claire Kim](https://github.com/radishsoups)
 - [Margarita Billi](https://github.com/pinkmaggs)
 
@@ -15,11 +16,12 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+For students, who are looking to transform into a better, more productive version of themselves, [App Name] is a task manager that allows you to track your assignments and habits.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a student, I want track my tasks so that I stay on top of my classes this semester.
+2. As a chronic procrastinator, I want to be able to see all my due dates so I don't miss any deadlines.
 
 ## Activity Diagrams
 
