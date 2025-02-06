@@ -47,6 +47,7 @@ For students, employees, and others who are looking to transform into a better, 
 ## Activity Diagrams
 
 10. As a student, I want to create, edit, and delete tasks with details like title, description, due date, and priority level so that I can efficiently manage my workload and stay organized.
+    ![UML for User Story 10](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/main/UML/usr_story10.png)
 
 ## Clickable Prototype
 
