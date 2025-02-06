@@ -36,6 +36,8 @@ For students, employees, and others who are looking to transform into a better, 
 3. As a member of a developer team, I want to see a dashboard of tasks so I can track my progress.
 4. As a mother, I want to record my weekly tasks so I can stay organized and help support my family.
 5. As a professor, I want to organize my deadlines by priority so I know which ones to prioritize.
+6. As a worker, I want a flexible task management system so that I can structure my productivity in a way that works best for me.
+7. As a student, I want to have a simple and distraction-free interface so that I can quickly log my progress without getting overwhelmed.
 
 ## Activity Diagrams
 
