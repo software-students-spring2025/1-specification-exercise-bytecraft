@@ -33,7 +33,7 @@ For students, employees, and others who are looking to transform into a better, 
 
 ## User Requirements
 
-1. As a student, I want track my tasks so that I stay on top of my classes this semester.
+1. As a new student, I want to sign up on a platform that i can track my progress and recieve reminders of my upcoming deadlines and exams.
 2. As a chronic procrastinator, I want to be able to see all my due dates so I don't miss any deadlines.
 3. As a member of a developer team, I want to see a dashboard of tasks so I can track my progress.
 4. As a mother, I want to record my weekly tasks so I can stay organized and help support my family.
@@ -46,8 +46,12 @@ For students, employees, and others who are looking to transform into a better, 
 
 ## Activity Diagrams
 
+1. As a new student, I want to sign up on a platform that i can track my progress and recieve reminders of my upcoming deadlines and exams.
+    ![UML for User Story 10](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/main/UML/user_story1.png)
+
 10. As a student, I want to create, edit, and delete tasks with details like title, description, due date, and priority level so that I can efficiently manage my workload and stay organized.
     ![UML for User Story 10](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/main/UML/usr_story10.png)
+
 
 ## Clickable Prototype
 
