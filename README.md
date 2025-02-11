@@ -33,8 +33,8 @@ For students, employees, and others who are looking to transform into a better, 
 
 ## User Requirements
 
-1. As a new student, I want to sign up on a platform that i can track my progress and recieve reminders of my upcoming deadlines and exams.
-2. As a chronic procrastinator, I want to be able to see all my due dates so I don't miss any deadlines.
+1. As a new working professional, I want to sign up to the platform and maintain flexibility in managing my priorities based on my ever changing schedule.
+2. As a student, I want to create, edit, and delete tasks with details like title, description, due date, and priority level so that I can efficiently manage my workload and stay organized.
 3. As a member of a developer team, I want to see a dashboard of tasks so I can track my progress.
 4. As a mother, I want to record my weekly tasks so I can stay organized and help support my family.
 5. As a professor, I want to organize my deadlines by priority so I know which ones to prioritize.
@@ -42,16 +42,15 @@ For students, employees, and others who are looking to transform into a better, 
 7. As a student, I want to have a simple and distraction-free interface so that I can quickly log my progress without getting overwhelmed.
 8. As a person struggling with productivity, I want to organize my 2025 New Years Resolutions so I can become a better version of myself this year.
 9. As a forgetful person, I want to be notified through my phone about my deadlines so I don't miss out on any.
-10. As a student, I want to create, edit, and delete tasks with details like title, description, due date, and priority level so that I can efficiently manage my workload and stay organized.
+10. As a chronic procrastinator, I want to be able to see all my due dates so I don't miss any deadlines.
 
 ## Activity Diagrams
 
-1. As a new student, I want to sign up on a platform that i can track my progress and recieve reminders of my upcoming deadlines and exams.
-    ![UML for User Story 10](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/main/UML/user_story1.png)
+1. User story #1: As a new working professional, I want to sign up to the platform and maintain flexibility in managing my priorities based on my ever changing schedule.
+   ![UML for User Story 1](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/Andy/UML/usr1.jpg)
 
-10. As a student, I want to create, edit, and delete tasks with details like title, description, due date, and priority level so that I can efficiently manage my workload and stay organized.
-    ![UML for User Story 10](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/main/UML/usr_story10.png)
-
+2. User story #2: As a student, I want to create, edit, and delete tasks with details like title, description, due date, and priority level so that I can efficiently manage my workload and stay organized.
+   ![UML for User Story 2](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/Andy/UML/usr2.jpg)
 
 ## Clickable Prototype
 
