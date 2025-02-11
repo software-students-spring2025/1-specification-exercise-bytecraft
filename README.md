@@ -47,10 +47,10 @@ For students, employees, and others who are looking to transform into a better, 
 ## Activity Diagrams
 
 1. User story #1: As a new working professional, I want to sign up to the platform and maintain flexibility in managing my priorities based on my ever changing schedule.
-   ![UML for User Story 10](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/main/UML/user_story1.png)
+   ![UML for User Story 1](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/Andy/UML/usr1.jpg)
 
 2. User story #2: As a student, I want to create, edit, and delete tasks with details like title, description, due date, and priority level so that I can efficiently manage my workload and stay organized.
-   ![UML for User Story 10](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/main/UML/usr_story10.png)
+   ![UML for User Story 2](https://github.com/software-students-spring2025/1-specification-exercise-bytecraft/blob/Andy/UML/usr2.jpg)
 
 ## Clickable Prototype
 
